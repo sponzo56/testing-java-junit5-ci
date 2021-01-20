@@ -1,4 +1,4 @@
-[![CircleCI](https://circleci.com/gh/springframeworkguru/testing-java-junit5-ci.svg?style=svg)](https://circleci.com/gh/springframeworkguru/testing-java-junit5-ci)
+[![CircleCI](https://circleci.com/gh/sponzo56/testing-java-junit5-ci.svg?style=svg)](https://circleci.com/gh/sponzo56/testing-java-junit5-ci)
 
 # Introduction to JUnit 5 with Maven - CI Example
 
