@@ -38,7 +38,7 @@ class OwnerTest implements ModelTests {
     @DisplayName("Value Source Test")
     @ParameterizedTest(name = "{displayName} - [{index}] {arguments}")
     @ValueSource(strings = {"Spring", "Framework", "Guru"})
-    void testValueSource(String val) {
+    void testValueSource(Strin val) {
         System.out.println(val);
     }
 
